@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1527585152 source:c:\users\nidan\documents\c programming\fread in c\main.c
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+

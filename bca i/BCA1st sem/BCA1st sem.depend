@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1525712071 source:c:\users\nidan\documents\bca1st sem\main.c
+	<stdio.h>
+	<conio.h>
+
+1528107560 source:c:\users\nidan\documents\c programming\bca1st sem\main.c
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+

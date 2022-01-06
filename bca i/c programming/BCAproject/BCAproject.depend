@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1520852950 source:c:\users\nidan\documents\bcaproject\main.c
+	<stdio.h>
+	<stdlib.h>
+
